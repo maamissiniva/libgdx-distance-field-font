@@ -20,7 +20,7 @@ tasks.jar {
     archiveBaseName                = mlArName
 }
 group                          = groupName
-version                        = "0.1.1-SNAPSHOT"
+version                        = "0.1.1"
 
 repositories {
     mavenCentral()
